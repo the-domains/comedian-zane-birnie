@@ -1,14 +1,29 @@
+name: 'comedian Zane Birnie '
+favicon: null
 layout_spectrum: 0.8984962
 typography_spectrum: 0.2798066
+title: Zanes site
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7502685
-  lightness: 0.2841031
-  brandStrength: 0.9543501
   brandColors:
     - '#020202'
     - '#81754A'
     - '#FFF1BD'
     - '#D8A277'
     - '#9AB4C6'
+  brandStrength: 0.9543501
+  lightness: 0.2841031
+  saturation: 0.7502685
   rhythmicContrast: 0.8039742
-name: 'comedian Zane Birnie '
+purpose: []
